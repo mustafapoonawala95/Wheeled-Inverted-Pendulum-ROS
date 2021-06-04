@@ -1,0 +1,2 @@
+TWIP_description:lqr_control:myrobot_control
+-DCATKIN_DEVEL_PREFIX=/home/mustafa/inverted_pendulum_ROS/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mustafa/inverted_pendulum_ROS/catkin_ws/install -G Unix Makefiles

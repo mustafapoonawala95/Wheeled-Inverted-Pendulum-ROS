@@ -1,0 +1,8 @@
+prefix=/home/mustafa/inverted_pendulum_ROS/catkin_ws/install
+
+Name: TWIP_description
+Description: Description of TWIP_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

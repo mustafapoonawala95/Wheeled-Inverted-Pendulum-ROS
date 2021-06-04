@@ -1,0 +1,8 @@
+prefix=/home/mustafa/inverted_pendulum_ROS/catkin_ws/install
+
+Name: lqr_control
+Description: Description of lqr_control
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: 
